@@ -3,7 +3,7 @@
 int main(int argc, char **argv)
 {
 	int a, b, c;
-    printf("Input three sides of a supposed triangle (integers devided by spaces): ");
+    //printf("Input three sides of a supposed triangle (integers devided by spaces): ");
     
     scanf("%d %d %d", &a, &b, &c);
 	    

@@ -3,7 +3,7 @@
 int main(int argc, char **argv)
 {
 	int n, sum_of_digits;
-    printf("Input a three digit integer: ");
+    //printf("Input a three digit integer: ");
     scanf("%d", &n);
     
     sum_of_digits = n/100 + (n%100)/10 + (n%100)%10;
